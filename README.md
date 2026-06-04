@@ -17,3 +17,4 @@ To design and deploy an interactive sales performance dashboard using the Supers
 * **Dashboard Deliverables:** PDF Executive Presentation detailing component-by-component breakdowns.
 * **Source Code/Data:** Clean, mobile-optimized business spreadsheet utilizing advanced matrix array filtering formulas.
 * **Visuals:** High-resolution mobile dashboard interface captures.
+ [Click Here to View the Interactive Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1UwQkCDVFyx6itP_ICCzmfhfhIgjQx3GJ/edit?usp=drivesdk&ouid=114814568101892520964&rtpof=true&sd=true)
